@@ -8,7 +8,6 @@ import java.time.LocalDate;
 
 
 public class MatchDataProcessor implements ItemProcessor<MatchInput, Match> {
-
         private static final Logger log = LoggerFactory.getLogger(MatchItemProcessor.class);
 
         @Override

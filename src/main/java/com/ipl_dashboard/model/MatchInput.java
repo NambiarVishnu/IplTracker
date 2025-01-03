@@ -90,6 +90,8 @@ public class MatchInput {
         return team2;
     }
 
+
+
     public void setTeam2(String team2) {
         this.team2 = team2;
     }

@@ -41,6 +41,8 @@ public class Match {
         this.date = date;
     }
 
+
+
     public String getMatch_type() {
         return match_type;
     }
